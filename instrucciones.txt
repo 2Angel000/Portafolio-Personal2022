@@ -1,0 +1,38 @@
+
+Su portafolio debe tener una sección de bienvenida
+ con un id de welcome-section
+
+La sección de bienvenida debe tener un elemento h1 que contenga
+ texto
+
+Tu portafolio debe tener una sección de proyectos con un id de
+ proyectos
+
+La sección de proyectos debe contener al menos un elemento con
+ la clase project-tile para contener un proyecto
+
+La sección de proyectos debe contener al menos un enlace a un 
+proyecto
+
+Su portafolio debe tener una barra de navegación con un id de 
+navbar
+
+La barra de navegación debe contener al menos un enlace en el 
+que se pueda hacer clic para navegar a diferentes secciones de 
+la página
+
+Tu portafolio debe tener un enlace con un id de profile-link, 
+que abra tu perfil de GitHub o freeCodeCamp en una nueva pestaña
+
+Tu portafolio debe tener al menos un media query
+
+La altura de
+ la sección de bienvenida debe ser igual a la altu
+ra de la ventana gráfica
+
+La barra de navegación debe estar siempre en la parte superior
+ de la ventana gráfica
+
+Cumple con las historias de usuario y pasa todas las pruebas que
+aparecen a continuación para completar este proyecto. 
+Dale tu propio estilo personal. ¡Feliz codificación!
